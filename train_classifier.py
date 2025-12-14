@@ -113,7 +113,8 @@ class IntentClassifier:
 
 
 if __name__ == "__main__":
-    intent_classifier = IntentClassifier()
-
+    intent_classifier = IntentClassifier()    
     
+
+
     
